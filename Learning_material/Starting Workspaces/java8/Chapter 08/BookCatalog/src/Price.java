@@ -32,7 +32,7 @@ public class Price {
 	}
 	
 	public Map<String,Double> getRates() {
-		return rates;
+		return unmodifiableMap(rates);
 	}
 	
 }

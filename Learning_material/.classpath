@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 02/PerformanceExample1/src"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 03/PerformanceExample1/src"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 05/ExploringMemory/src"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 07/EscapingReferences/src"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 07/EscapingReferencesClient/src"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 08/BookCatalog/src"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 09/ExploringStrings/src"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 10/ExploringStrings/src"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 11/GarbageCollection/src"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 12/SoftLeaks/src"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 15/SoftLeaks/src"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 17/Benchmarking/src"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 17/FibonnaciPrimesImproved/src"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 18/jmhBenchmarking/src/main/java"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 19/FibonnaciPrimesImproved/src"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 19/jmhBenchmarking/src/main/java"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 19/jmhBenchmarking/target/generated-sources/annotations"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 20/ListBenchmarking/src"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 21/ListBenchmarking/src"/>
+	<classpathentry kind="src" path="End Of Chapter Workspaces/Chapter 22/CodingPerformance/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java11/Chapter 02/PerformanceExample1/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java11/Chapter 06/MemoryTest/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java11/Chapter 07/EscapingReferences/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java11/Chapter 08/BookCatalog/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java11/Chapter 11/GarbageCollection/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java11/Chapter 12/SoftLeaks/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java11/Chapter 16/FibonnaciPrimes/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java11/Chapter 16/FibonnaciPrimesImproved/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java11/Chapter 20/ListBenchmarking/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java11/Chapter 22/CodingPerformance/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java11/Chapter 23/GraalPerformanceTest"/>
+	<classpathentry kind="src" path="Starting Workspaces/java11/Chapter 24"/>
+	<classpathentry kind="src" path="Starting Workspaces/java8/Chapter 02/PerformanceExample1/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java8/Chapter 06/MemoryTest/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java8/Chapter 07/EscapingReferences/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java8/Chapter 08/BookCatalog/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java8/Chapter 11/GarbageCollection/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java8/Chapter 12/SoftLeaks/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java8/Chapter 16/FibonnaciPrimes/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java8/Chapter 16/FibonnaciPrimesImproved/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java8/Chapter 20/ListBenchmarking/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java8/Chapter 22/CodingPerformance/src"/>
+	<classpathentry kind="src" path="Starting Workspaces/java8/Chapter 23/GraalPerformanceTest"/>
+	<classpathentry kind="src" path="Starting Workspaces/java8/Chapter 24"/>
+	<classpathentry kind="lib" path="End Of Chapter Workspaces/Chapter 19/jmhBenchmarking/target/benchmarks.jar"/>
+	<classpathentry kind="lib" path="End Of Chapter Workspaces/Chapter 19/jmhBenchmarking/target/test-1.0.jar"/>
+	<classpathentry kind="output" path="End Of Chapter Workspaces/Chapter 19/jmhBenchmarking/target/classes"/>
+</classpath>
